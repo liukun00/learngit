@@ -156,6 +156,7 @@
   <ItemGroup>
     <ClInclude Include="git_test.h" />
     <ClInclude Include="jc.h" />
+    <ClInclude Include="第二个头文件.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
